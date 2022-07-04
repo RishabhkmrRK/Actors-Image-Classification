@@ -1,5 +1,5 @@
 # Important Links:
-1. Dataset - [Google Images](https://github.com/RishabhkmrRK/Actors_image_classification_using_sklearn_with_EC2_model_deployment/tree/main/dataset/images)
+1. Dataset - [Download from Google Images](https://github.com/RishabhkmrRK/Actors_image_classification_using_sklearn_with_EC2_model_deployment/tree/main/dataset/images)
 2. Model Training - [Notebook](https://github.com/RishabhkmrRK/Actors_image_classification_using_sklearn_with_EC2_model_deployment/blob/main/model_training.ipynb)
 3. Model deployment - [AWS EC2 Instance](http://ec2-52-66-249-90.ap-south-1.compute.amazonaws.com)
 

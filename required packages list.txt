@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+PyWavelets - pywt
+-U scikit-learn
+pandas
+joblib
+seaborn
+json

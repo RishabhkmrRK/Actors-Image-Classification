@@ -11,7 +11,7 @@ In this project, I have trained and deployed a machine learning model which clas
 ## Workflow 
 ![ML model development process1](https://user-images.githubusercontent.com/30430757/176646092-196499ac-c780-4414-9c35-1e9f87ac3778.jpeg)
 1. Data Preparation
-    * Data Gathering: To gather data, I used `fatkun` google chrome extension. With the help of Fatkun extension, I bulk downloaded images of respective actors from google.
+    * Data Gathering/Web Scrapping: To gather data, I used `fatkun` google chrome extension. With the help of Fatkun extension, I bulk downloaded images of respective actors from google.
    
  2. Data cleaning: 
 

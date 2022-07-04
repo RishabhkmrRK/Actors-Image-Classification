@@ -6,10 +6,14 @@
 ---
 
 ## Introduction
-In this project, I have trained and deployed a machine learning model which classifies the Tv show "The Big Bang Theory" actors: Howard, Leonard, Raj and Sheldon. I used `Google images` for Gathering data, `Sklearn` libraries to train model and `Amazon Web Services EC2` Instance to deploy model. 
+In this project, I have trained and deployed a machine learning model which classifies the images of Tv show "The Big Bang Theory" actors: Howard, Leonard, Raj and Sheldon. I used `Google images` for Gathering data, `Sklearn` libraries to train model and `Amazon Web Services EC2` Instance to deploy model. 
 
 ## Workflow 
 ![ML model development process1](https://user-images.githubusercontent.com/30430757/176646092-196499ac-c780-4414-9c35-1e9f87ac3778.jpeg)
+1. Data Preparation
+    * Data Gathering: To gather data, I used `fatkun` google chrome extension. With the help of Fatkun extension, I bulk downloaded images of respective actors from google.
+   
+ 2. Data cleaning: 
 
 ## Conclusion
 

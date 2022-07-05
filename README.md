@@ -3,19 +3,19 @@
 2. Model Training - [Notebook](https://github.com/RishabhkmrRK/Actors_image_classification_using_sklearn_with_EC2_model_deployment/blob/main/model_training.ipynb)
 3. Model deployment - [AWS EC2 Instance](http://ec2-52-66-249-90.ap-south-1.compute.amazonaws.com)
     * Note: Due to limited dataset, model can only classify clear single person image with both eyes visible.
-
+    
 # Languages and Tools used:
 [<img align="left" alt="jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;"/>](https://jupyter.org/ "Jupyter Notebook")
 [<img align="left" alt="opencv" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="padding-right:10px;"/>](https://opencv.org/ "OpenCV")
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/ "Python")
 [<img align="left" alt="sklearn" width="26px" src="https://user-images.githubusercontent.com/30430757/177335743-4db65420-115c-4d05-ba7f-3c6c7a7ee838.svg" style="padding-right:10px;" />](https://scikit-learn.org/stable/ "Sklearn")
-[<img align="left" alt="flask" width="26px" fill= #000000 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;"/>](https://flask.palletsprojects.com/en/2.1.x/ "Flask")
+[<img align="left" alt="flask" width="26px" src="https://user-images.githubusercontent.com/30430757/177341221-632296bf-b8b7-49e3-8fa1-f4de32c70f9c.svg" style="padding-right:10px;"/>](https://flask.palletsprojects.com/en/2.1.x/ "Flask")
 [<img align="left" alt="nginx" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;" />](https://www.nginx.com/ "Nginx")
 [<img align="left" alt="html" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>](https://www.w3schools.com/tags/att_download.asp "HTML")
 [<img align="left" alt="css" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/CSS "CSS")
 [<img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>](https://www.javascript.com/ "JavaScript")
 [<img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />](https://aws.amazon.com/ "AWS")
-[<img align="left" alt="github" fill="white" width="26px" src="https://user-images.githubusercontent.com/30430757/177340516-58cfbaa0-874b-4426-a238-3ebf9f440aeb.svg" style="padding-right:10px;" />](https://github.com/RishabhkmrRK "Github")
+[<img align="left" alt="github" width="26px" src="https://user-images.githubusercontent.com/30430757/177340516-58cfbaa0-874b-4426-a238-3ebf9f440aeb.svg" style="padding-right:10px;" />](https://github.com/RishabhkmrRK "Github")
 [<img align="left" alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />](https://www.jetbrains.com/pycharm/ "pycharm")
 [<img align="left" alt="visualstudiocode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />](https://code.visualstudio.com/ "Visual Studio Code")
 <br />

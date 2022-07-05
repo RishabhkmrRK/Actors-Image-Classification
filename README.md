@@ -33,7 +33,7 @@
 ## Overview [**↑**](#toc) 
 In this project, I have trained and deployed a machine learning model which classifies the images of Tv show "The Big Bang Theory" actors: Howard, Leonard, Raj and Sheldon. `Google images` was used to Gather data, `Sklearn` libraries to train model and `Amazon Web Services EC2` Instance to deploy model. 
 
-This project comes under Machine Learning Classification problem having 4 labels.
+This project comes under Supervised Machine Learning Classification problem having 4 labels.
 <br />
 <br />
 

@@ -15,7 +15,7 @@
 [<img align="left" alt="css" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/CSS "CSS")
 [<img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>](https://www.javascript.com/ "JavaScript")
 [<img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />](https://aws.amazon.com/ "AWS")
-[<img align="left" alt="github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com/RishabhkmrRK "Github")
+[<img align="left" alt="github" fill="white" width="26px" src="https://user-images.githubusercontent.com/30430757/177340516-58cfbaa0-874b-4426-a238-3ebf9f440aeb.svg" style="padding-right:10px;" />](https://github.com/RishabhkmrRK "Github")
 [<img align="left" alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />](https://www.jetbrains.com/pycharm/ "pycharm")
 [<img align="left" alt="visualstudiocode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />](https://code.visualstudio.com/ "Visual Studio Code")
 <br />

@@ -27,13 +27,12 @@ This project comes under Machine Learning Classification problem having 4 labels
 <br />
 <br />
 
-## Workflow 
-![ML model development process1](https://user-images.githubusercontent.com/30430757/176646092-196499ac-c780-4414-9c35-1e9f87ac3778.jpeg)
-
+## Workflow
+![ML model development process](https://user-images.githubusercontent.com/30430757/177333856-69c7dc27-c804-483c-9193-052d7acf9857.jpeg)
 
 1. Data Preparation
-    * Data Gathering/Web Scrapping: To gather data, `Fatkun` google chrome extension was used to bulk download images of respective actors from google.
-    * Data cleaning: After downloading Raw dataset, python script was used to clean which reject images those do not have clear image and both eyes are not visible using opencv library. As opencv can only find images with proper face and two eyes visib;e, manually deletion of non required actor iamges from respective actors directory in dataset had be performed.
+    * Data Gathering/Web Scrapping: To gather data, `Fatkun` google chrome extension was used to bulk download images of respective actors from google.[Dataset](https://github.com/RishabhkmrRK/Actors_image_classification_using_sklearn_with_EC2_model_deployment/tree/main/dataset/images)
+    * Data cleaning: After downloading Raw dataset, python script was used to clean which reject images those do not have clear image and both eyes are not visible using opencv library. As opencv can only find images with proper face and two eyes visib;e, manually deletion of non required actor iamges from respective actors directory in dataset had be performed.[Cleaning Code](https://github.com/RishabhkmrRK/Actors_image_classification_using_sklearn_with_EC2_model_deployment/blob/main/dataset_cleaning.ipynb)
 
 2. Feature Engineering
     * Feature Extraction: In this step, image was sized to 32x32 pixels and then pyWavelet was used to extract feature from image. After extracting feature from image, extracted image was vertical stack with the original one making the size of image 4096 (32x32x3 + 32x32).

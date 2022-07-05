@@ -22,15 +22,23 @@
 <br />
 <br />
 
+<a id="toc"></a>
+## Table of contents
+   * [Overview](#overview)
+   * [WorkFlow](#workflow)
+   * [Conclusion](#conclusion)
+   * [Future Target](#future)
 
-## Overview
+<a id=overview></a>
+## Overview [**↑**](#toc) 
 In this project, I have trained and deployed a machine learning model which classifies the images of Tv show "The Big Bang Theory" actors: Howard, Leonard, Raj and Sheldon. `Google images` was used to Gather data, `Sklearn` libraries to train model and `Amazon Web Services EC2` Instance to deploy model. 
 
 This project comes under Machine Learning Classification problem having 4 labels.
 <br />
 <br />
 
-## Workflow
+<a id=workflow></a>
+## Workflow [**↑**](#toc) 
 ![ML model development process](https://user-images.githubusercontent.com/30430757/177333856-69c7dc27-c804-483c-9193-052d7acf9857.jpeg)
 
 1. Data Preparation
@@ -53,11 +61,13 @@ This project comes under Machine Learning Classification problem having 4 labels
 
 <br />
 
-## Conclusion
+<a id=conclusion></a>
+## Conclusion [**↑**](#toc) 
 
 Model was successfully trained and deployed with 84% accuracy but due to limited dataset, model can only classify clear single person image with both eyes visible.
 
 <br />
 
-## Future Target
+<a id=future></a>
+## Future Target [**↑**](#toc) 
 Next Step is to implement the same Classification Model using Deep-Learning (Neural Networks) with high accuracy and with much bigger dataset in hand.
